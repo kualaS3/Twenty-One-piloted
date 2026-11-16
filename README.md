@@ -1,4 +1,4 @@
-# A Old Habit
+# Twenty-One-Piloted, a Blackjack sim
 
 I have hobbies (not problems, I promise). And one of those hobbies, particularly when I was on exchange in the States, included the occasional (or not so occasional) visit to the casino to play my favourite card game: Blackjack.
 
@@ -28,5 +28,3 @@ In Google Colab, clone the repo, then run this in a cell (run below is for itera
 
 At each decision you type a command and press enter. Each iteration's own README
 lists the commands that version supports.
-
-Tests: `pip install pytest`, then run `python -m pytest` inside the iteration folder.
